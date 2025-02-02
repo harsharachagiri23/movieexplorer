@@ -20,3 +20,6 @@ A simple web app that allows users to search for movies using the OMDb API and d
 	1.	Go to OMDb API
 	2.	Register for a free API key
 	3.	Replace YOUR_OMDB_API_KEY in script.js:
+
+
+ API_JSON: https://www.omdbapi.com/?s=avengers&apikey=c3d181f7
